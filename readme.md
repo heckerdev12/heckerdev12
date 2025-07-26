@@ -26,6 +26,7 @@ I'm passionate about technology, coding, and learning new things every day.
 
 ## 🔗 Connect with me
 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 <!-- Add other social links as needed -->
 

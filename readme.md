@@ -4,6 +4,8 @@
 Welcome to my GitHub profile!  
 I'm passionate about technology, coding, and learning new things every day.
 
+[![wakatime](https://wakatime.com/badge/user/b61180ea-f4cd-4217-8504-1698cf13740b.svg)](https://wakatime.com/@b61180ea-f4cd-4217-8504-1698cf13740b)
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on personal and collaborative projects.

@@ -1,5 +1,5 @@
 
-# Hi there, I'm louisdev12 👋
+# Hi there, I'm Louis 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, coding, and learning new things every day.
@@ -24,7 +24,7 @@ I'm passionate about technology, coding, and learning new things every day.
 
 ## 📈 GitHub Stats
 
-![louisdev12's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisdev12&show_icons=true&theme=radical)
+![heckerdev12's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisdev12&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
 

@@ -24,10 +24,9 @@ I'm passionate about technology, coding, and learning new things every day.
 
 ## 📈 GitHub Stats
 
-![heckerdev12's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisdev12&show_icons=true&theme=radical)
+![heckerdev12's GitHub stats](https://github-readme-stats.vercel.app/api?username=heckerdev12&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
-
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 <!-- Add other social links as needed -->

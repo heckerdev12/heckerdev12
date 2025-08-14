@@ -11,7 +11,6 @@ I'm passionate about technology, coding, and learning new things every day.
 - 🔭 I’m currently working on personal and collaborative projects.
 - 🌱 I’m always learning new frameworks, languages, and tools.
 - 💬 Ask me about anything related to programming, I'm happy to help if I can.
-- 📫 How to reach me: [Your email or social link here]
 - ⚡ Fun fact: I love solving challenges and exploring open-source.
 
 ## 🛠️ Languages & Tools

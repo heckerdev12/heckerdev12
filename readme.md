@@ -6,6 +6,9 @@ I'm passionate about technology, coding, and learning new things every day.
 
 [![wakatime](https://wakatime.com/badge/user/b61180ea-f4cd-4217-8504-1698cf13740b.svg)](https://wakatime.com/@b61180ea-f4cd-4217-8504-1698cf13740b)
 
+## Language Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heckerdev12&layout=compact)
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on personal and collaborative projects.

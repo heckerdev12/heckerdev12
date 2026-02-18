@@ -72,6 +72,14 @@
   <img alt="pac-man contribution graph" src="https://github.com/heckerdev12/heckerdev12/raw/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
+## 🟡 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heckerdev12/heckerdev12/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heckerdev12/heckerdev12/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heckerdev12/heckerdev12/output/pacman-contribution-graph.svg" />
+</picture>
+
 <br/>
 
 ## 🔥 Contribution Graph

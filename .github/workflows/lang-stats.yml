@@ -1,4 +1,4 @@
-name: Update Language Stats
+name: GitHub Profile Summary Cards
 
 on:
   schedule:
@@ -8,24 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          card: top-langs
-          options: username=heckerdev12&layout=compact&langs_count=8&hide=html&bg_color=0D1117&title_color=FF6E96&text_color=ffffff&border_color=FF6E96
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit card
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "chore: update language stats" || true
-          git push
+          USERNAME: heckerdev12
+          BRANCH_NAME: "main"
+          EXCLUDE: "html,css"

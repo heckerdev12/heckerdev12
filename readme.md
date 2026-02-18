@@ -6,7 +6,7 @@ I'm passionate about technology, coding, and learning new things every day.
 [![wakatime](https://wakatime.com/badge/user/b61180ea-f4cd-4217-8504-1698cf13740b.svg)](https://wakatime.com/@b61180ea-f4cd-4217-8504-1698cf13740b)
 
 ## Language Usage
-<figure><embed src="https://wakatime.com/share/@Heckerdev/9223f014-2d09-4c95-b793-8734d5d6668c.svg"></embed></figure>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heckerdev&theme=radical)
 
 ## 🚀 About Me
 

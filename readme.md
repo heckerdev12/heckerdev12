@@ -1,4 +1,3 @@
-
 # Hi there, I'm Louis 👋
 
 Welcome to my GitHub profile!  
@@ -7,12 +6,12 @@ I'm passionate about technology, coding, and learning new things every day.
 [![wakatime](https://wakatime.com/badge/user/b61180ea-f4cd-4217-8504-1698cf13740b.svg)](https://wakatime.com/@b61180ea-f4cd-4217-8504-1698cf13740b)
 
 ## Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heckerdev12&layout=compact)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heckerdev12&theme=radical)
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on personal and collaborative projects.
-- 🌱 I’m always learning new frameworks, languages, and tools.
+- 🔭 I'm currently working on personal and collaborative projects.
+- 🌱 I'm always learning new frameworks, languages, and tools.
 - 💬 Ask me about anything related to programming, I'm happy to help if I can.
 - ⚡ Fun fact: I love solving challenges and exploring open-source.
 
@@ -26,7 +25,9 @@ I'm passionate about technology, coding, and learning new things every day.
 
 ## 📈 GitHub Stats
 
-![heckerdev12's GitHub stats](https://github-readme-stats.vercel.app/api?username=heckerdev12&show_icons=true&theme=radical)
+![heckerdev12's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heckerdev12&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heckerdev12&theme=radical)](https://git.io/streak-stats)
 
 ## 🔗 Connect with me
 

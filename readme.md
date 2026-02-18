@@ -21,17 +21,26 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode" />
+</div>
+
+<!-- shadcn, Zed, and GSAP don't have skillicons — using shields instead -->
+<div align="center" style="margin-top:12px">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28" alt="shadcn" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="28" alt="gsap" />
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" height="28" alt="zed" />
 </div>
 
 <br/>
@@ -48,9 +57,7 @@
 ## 📊 Language Usage
 
 <div align="center">
-  <a href="https://wakatime.com/@b61180ea-f4cd-4217-8504-1698cf13740b">
-    <img src="https://wakatime.com/share/@b61180ea-f4cd-4217-8504-1698cf13740b/languages.svg" alt="WakaTime Language Stats" width="500"/>
-  </a>
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 <br/>
@@ -64,29 +71,13 @@
 
 <br/>
 
-## 🟡 Pac-Man Contribution Graph
+## 🐍 Snake Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heckerdev12/heckerdev12/raw/main/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/heckerdev12/heckerdev12/raw/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="pac-man contribution graph" src="https://github.com/heckerdev12/heckerdev12/raw/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://github.com/heckerdev12/heckerdev12/raw/main/dist/github-contribution-grid-snake.svg" />
 </picture>
-
-## 🟡 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heckerdev12/heckerdev12/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heckerdev12/heckerdev12/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heckerdev12/heckerdev12/output/pacman-contribution-graph.svg" />
-</picture>
-
-<br/>
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heckerdev12&theme=radical&hide_border=true" alt="activity graph" />
-</div>
 
 <br/>
 

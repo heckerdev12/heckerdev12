@@ -4,6 +4,12 @@
   Welcome to my GitHub profile! I'm passionate about technology, coding, and learning new things every day.
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=heckerdev12.heckerdev12&" />
+</div>
+
+###
+
 <br/>
 
 <div align="center">
@@ -36,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode" />
 </div>
 
-<!-- shadcn, Zed, and GSAP don't have skillicons — using shields instead -->
 <div align="center" style="margin-top:12px">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28" alt="shadcn" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="28" alt="gsap" />
@@ -57,7 +62,8 @@
 ## 📊 Language Usage
 
 <div align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="profile-summary-card-output/0-profile-details.svg" alt="Louis's Profile Details" />
+  <img src="profile-summary-card-output/2-most-commit-language.svg" alt="Top Languages by Commits" />
 </div>
 
 <br/>

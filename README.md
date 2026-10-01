@@ -40,9 +40,9 @@
 
 <p align="center">
   <img height="180" alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=heckerdev12&show_icons=true&hide_border=true&theme=tokyonight" />
+    src="https://github-readme-stats.vercel.app/api?username=heckerdev12&show_icons=true&hide_border=true&theme=github_dark" />
   <img height="180" alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heckerdev12&layout=compact&hide_border=true&theme=tokyonight" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heckerdev12&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
 ---

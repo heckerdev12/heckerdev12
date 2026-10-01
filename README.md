@@ -39,8 +39,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=compact" />
+  <img height="180" alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=tokyonight&cache_seconds=21600" />
+  <img height="180" alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=donut-vertical&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css&hide_border=true&theme=tokyonight&cache_seconds=21600" />
 </p>
 
 ---
